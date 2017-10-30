@@ -7,3 +7,4 @@
 * [Source code](https://hackage.haskell.org/package/interpolatedstring-qq-0.2/src/) of the interpolatedstring-qq package
 * Template Haskell [tutorial](https://www.schoolofhaskell.com/user/marcin/template-haskell-101)
 * Another [tutorial](http://www.hyperedsoftware.com/blog/entries/first-stab-th.html)
+* Quasiquoter [tutorial](https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/)
