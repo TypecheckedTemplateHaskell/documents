@@ -1,7 +1,7 @@
 # Bibliography
 ## Research papers
-* Sheard & Peyton Jones, "Template Meta-programming for Haskell" (Haskell '02)
-* Mainland, "Why It's Nice to be Quoted: Quasiquoting for Hakskell" (Haskell '07)
+* T. Sheard & S. Peyton Jones, "Template Meta-programming for Haskell" (Haskell '02)
+* G. Mainland, "Why It's Nice to be Quoted: Quasiquoting for Hakskell" (Haskell '07)
 ## Manuals & tutorials
 * [Using QQ with Tempalate Haskell](http://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#template-haskell-quasi-quotation)
 * [Source code](https://hackage.haskell.org/package/interpolatedstring-qq-0.2/src/) of the interpolatedstring-qq package
